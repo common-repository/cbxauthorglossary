@@ -1,0 +1,77 @@
+.cbxauthglossary_wrap{
+    
+}
+
+
+.cbxauthglossary_letters{
+    border-bottom: 3px solid #000;
+    padding-bottom: 20px;
+}
+
+.cbxauthglossary_letter{
+    display: inline-block;
+    margin-right: 31.6px;
+    margin-bottom: 10px;
+    margin-bottom: 1rem;
+    margin-right: 3.16rem;
+    font-size: 20px;
+    font-size: 2rem;
+    font-weight: 700;
+    font-family: inherit;
+}
+
+
+.cbxauthglossary_letter:last-child {
+    margin-right: 0px;
+}
+
+
+.cbxauthglossary_items{
+    display: inline-block;
+    margin: 15px;
+
+
+}
+
+/*.cbxauthglossary_list{
+    clear: both;
+    float: left;
+}*/
+
+.cbxauthglossary_boxitems {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+.cbxauthglossary_items {
+    /*
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    */
+}
+.cbxauthglossary_itemletter{
+    font-weight: 800;
+    font-size: 18px;
+    font-size: 1.8rem;
+    margin: 5px 0px 20px;
+}
+.cbxauthglossary_list{
+}
+
+
+.cbxauthglossary_listitem{
+    margin: 0 0 10px 0;
+}
+
+
+.cbxauthglossary_listitem a{
+    display: block;
+    font-size: 14px;
+    font-size: 1.4rem;
+    font-weight: 600;
+}
